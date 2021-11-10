@@ -1,0 +1,18 @@
+body{
+    background-color: skyblue;
+}
+.image_responsive{
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bolder;
+    
+}
+
+h5{
+    text-align: center;
+}
